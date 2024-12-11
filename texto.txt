@@ -1,1 +1,3 @@
 Estructura principal del proyecto
+
+Cambios en la rama JuanCastello
